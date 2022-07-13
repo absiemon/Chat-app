@@ -1,0 +1,3 @@
+[submodule "chat-app/chat-app-server"]
+	path = chat-app/chat-app-server
+	url = https://github.com/absiemon/chat-app-server
